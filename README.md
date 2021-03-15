@@ -10,4 +10,4 @@ However I want to understand the "under the hood of MVC so here I am learning PH
 So far I love PHP and these are my beginning attempts to understand how to create with code.
 
 If you have any suggestions of good places to learn drop me a message me. 
-Thankyou for visiting my repository .
+Thank you for visiting my repository .
